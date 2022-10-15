@@ -72,3 +72,5 @@ Dan untuk mengirim perubahan pada local repository ke server gunakan perintah
 $git push -u origin main
 
 ![Gambar 11](screenshot/11.png)
+
+Dan kita bisa cek di repository langsung pada website github
