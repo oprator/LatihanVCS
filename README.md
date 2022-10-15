@@ -36,22 +36,27 @@ Jika sudah akan muncul tampilan seperti ini:
 ![Gambar 5](screenshot/5.png)
 
 kalian langsung copy url dan masukan perintah
+
 $ git clone https://github.com/oprator/LatihanVCS.git
+
 untuk menampilkan file README.md 
 
 ![Gambar 6](screenshot/6.png)
 
 Untuk menambahkan file yang baru saja dibuat tersebut menggunakan perintah
+
 $git add README.md
 
 ![Gambar 7](screenshot/7.png)
 
 Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
+
 $ git commit -m "Menambahkan file"
 
 ![Gambar 8](screenshot/8.png)
 
 kemudian gunakan perintah
+
 $git branch -M main
 
 
