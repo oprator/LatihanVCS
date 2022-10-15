@@ -14,3 +14,9 @@ lalu kalian tambahkan juga email dengan menggunakan perintah
 $ git config --global user.email "email anda"
 
 ![Gambar 1](screenshot/1.png)
+
+2.Login Github
+
+Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login akan muncul tampilan dashboard dari github tersebut
+
+![Gambar 2](screenshot/2.png)
