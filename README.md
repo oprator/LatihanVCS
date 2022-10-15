@@ -59,6 +59,16 @@ kemudian gunakan perintah
 
 $git branch -M main
 
-
+![Gambar 9](screenshot/9.png)
 
 Setelah itu menambahkan remote repository. remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. dengan menggunakan perintah
+
+$ git remote add origin https://github.com/oprator/LatihanVCS.git
+
+![Gambar 10](screenshot/10.png)
+
+Dan untuk mengirim perubahan pada local repository ke server gunakan perintah
+
+$git push -u origin main
+
+![Gambar 11](screenshot/11.png)
