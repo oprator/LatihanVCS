@@ -86,6 +86,7 @@ $git push -u origin main
 
 Dan kita bisa cek di repository langsung pada website github
 
-Sekian dan Terima gajih
+
+## Sekian dan Terima Gaji
 
 ![Gambar 14](screenshot/14.png)
