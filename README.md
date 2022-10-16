@@ -19,11 +19,11 @@ Buat folder dengan menggunakan perintah dan buka folder tersebut
 
 $mkdir Tugas
 
-![Gambar 11](screenshot/11.png)
+![Gambar 12](screenshot/12.png)
 
 $cd Tugas
 
-![Gambar 12](screenshot/12.png)
+![Gambar 13](screenshot/13.png)
 
 
 2.Login Github
