@@ -15,6 +15,17 @@ $ git config --global user.email "email anda"
 
 ![Gambar 1](screenshot/1.png)
 
+Buat folder dengan menggunakan perintah dan buka folder tersebut
+
+$mkdir Tugas
+
+![Gambar 11](screenshot/11.png)
+
+$cd Tugas
+
+![Gambar 12](screenshot/12.png)
+
+
 2.Login Github
 
 Langkah kedua kalian bisa login ke dalam website github, Setelah kalian login akan muncul tampilan dashboard dari github tersebut
