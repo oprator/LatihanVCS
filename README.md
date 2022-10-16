@@ -1,6 +1,9 @@
 Nama    : Taufik Hidayat
+
 Kelas   : TI.22.B.2
+
 NIM     : 312210674
+
 Tugas   : Bahasa pemrograman
 
 
