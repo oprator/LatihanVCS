@@ -7,8 +7,6 @@ NIM     : 312210674
 Tugas   : Bahasa pemrograman
 
 
-Assalamualaikum
-
 
 # LatihanVCS
 Tutorial cara penggunaan git
