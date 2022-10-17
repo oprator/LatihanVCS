@@ -8,7 +8,7 @@ Tugas   : Bahasa pemrograman
 
 
 
-# LatihanVCS
+# Cara penginstalan Git
 Tutorial cara penggunaan git
 
 Pertama kalian harus instal terlebih dahulu software Git Lalu kalian bisa buka software tersebut
